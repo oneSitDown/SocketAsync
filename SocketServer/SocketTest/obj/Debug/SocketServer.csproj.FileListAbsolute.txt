@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\SocketServer\SocketTest\bin\Debug\SocketTest.exe.config
+C:\Users\admin\Desktop\SocketServer\SocketTest\obj\Debug\SocketTest.exe
+C:\Users\admin\Desktop\SocketServer\SocketTest\obj\Debug\SocketTest.pdb
+C:\Users\admin\Desktop\SocketServer\SocketTest\bin\Debug\SocketTest.exe
+C:\Users\admin\Desktop\SocketServer\SocketTest\bin\Debug\SocketTest.pdb
+C:\Users\admin\Desktop\SocketServer\SocketTest\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Socket服务器\SocketServer\SocketTest\bin\Debug\SocketTest.exe.config
+C:\Users\Administrator\Desktop\Socket服务器\SocketServer\SocketTest\bin\Debug\SocketTest.exe
+C:\Users\Administrator\Desktop\Socket服务器\SocketServer\SocketTest\bin\Debug\SocketTest.pdb
+C:\Users\Administrator\Desktop\Socket服务器\SocketServer\SocketTest\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Socket服务器\SocketServer\SocketTest\obj\Debug\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Socket服务器\SocketServer\SocketTest\obj\Debug\SocketTest.exe
+C:\Users\Administrator\Desktop\Socket服务器\SocketServer\SocketTest\obj\Debug\SocketTest.pdb

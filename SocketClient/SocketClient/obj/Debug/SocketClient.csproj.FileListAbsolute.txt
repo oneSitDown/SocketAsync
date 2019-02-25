@@ -1,0 +1,18 @@
+c:\users\admin\documents\visual studio 2015\Projects\SocketClient\SocketClient\bin\Debug\SocketClient.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\SocketClient\SocketClient\bin\Debug\SocketClient.exe
+c:\users\admin\documents\visual studio 2015\Projects\SocketClient\SocketClient\bin\Debug\SocketClient.pdb
+c:\users\admin\documents\visual studio 2015\Projects\SocketClient\SocketClient\obj\Debug\SocketClient.exe
+c:\users\admin\documents\visual studio 2015\Projects\SocketClient\SocketClient\obj\Debug\SocketClient.pdb
+C:\Users\admin\Desktop\SocketClient\SocketClient\bin\Debug\SocketClient.exe.config
+C:\Users\admin\Desktop\SocketClient\SocketClient\obj\Debug\SocketClient.exe
+C:\Users\admin\Desktop\SocketClient\SocketClient\obj\Debug\SocketClient.pdb
+C:\Users\admin\Desktop\SocketClient\SocketClient\bin\Debug\SocketClient.exe
+C:\Users\admin\Desktop\SocketClient\SocketClient\bin\Debug\SocketClient.pdb
+C:\Users\admin\Desktop\SocketClient\SocketClient\obj\Debug\SocketClient.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Socket服务器\SocketClient\SocketClient\bin\Debug\SocketClient.exe.config
+C:\Users\Administrator\Desktop\Socket服务器\SocketClient\SocketClient\bin\Debug\SocketClient.exe
+C:\Users\Administrator\Desktop\Socket服务器\SocketClient\SocketClient\bin\Debug\SocketClient.pdb
+C:\Users\Administrator\Desktop\Socket服务器\SocketClient\SocketClient\obj\Debug\SocketClient.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Socket服务器\SocketClient\SocketClient\obj\Debug\SocketClient.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Socket服务器\SocketClient\SocketClient\obj\Debug\SocketClient.exe
+C:\Users\Administrator\Desktop\Socket服务器\SocketClient\SocketClient\obj\Debug\SocketClient.pdb

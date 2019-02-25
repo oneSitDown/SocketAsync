@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2015\Projects\SocketTest\SocketTest\bin\Debug\SocketTest.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\SocketTest\SocketTest\bin\Debug\SocketTest.exe
+c:\users\admin\documents\visual studio 2015\Projects\SocketTest\SocketTest\bin\Debug\SocketTest.pdb
+c:\users\admin\documents\visual studio 2015\Projects\SocketTest\SocketTest\obj\Debug\SocketTest.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\SocketTest\SocketTest\obj\Debug\SocketTest.exe
+c:\users\admin\documents\visual studio 2015\Projects\SocketTest\SocketTest\obj\Debug\SocketTest.pdb
+C:\Users\admin\Desktop\SocketServer\SocketTest\bin\Debug\SocketTest.exe.config
+C:\Users\admin\Desktop\SocketServer\SocketTest\obj\Debug\SocketTest.exe
+C:\Users\admin\Desktop\SocketServer\SocketTest\obj\Debug\SocketTest.pdb
